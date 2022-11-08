@@ -1,1 +1,0 @@
-# -analysis-of-covid-data-by-power-bi
