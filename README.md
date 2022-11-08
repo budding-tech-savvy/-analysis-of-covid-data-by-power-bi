@@ -28,5 +28,7 @@ here,we visualized the data showing the ups and down in cryptocurrency.here,what
  my almost concentratioon was on
  designing this dashboard.
  4.my mainly concentration was on formatting because i know my impression is last impression
- 
+ 5. I have added a URL using a snap  of bitcoin if you think that you do
+ not have cognizance knowledge of cryptocurrency then click on
+this picture pressing the ctrl+click keys consequently you will reach Wikipedia where you will get insightful content related to cryptocurrency.
  
